@@ -5,7 +5,7 @@
   <samp>
     I'm Diego Franchina, <strong>Front-end Developer 👨‍💻</strong>.
     <br>
-    From Buenos Aires, Argentina 🇦🇷. Living in Barcelona, Spain 🇪🇸.
+    From Buenos Aires, Argentina 🇦🇷. Based in Barcelona, Spain 🇪🇸.
     <br>
     Passionate about everything that has to do with Web Development, 
     <br>
