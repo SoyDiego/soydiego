@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/soydiego/soydiego/master/img/hi.gif" styles="width: 30px;"> Hello World!
+# <img src="https://raw.githubusercontent.com/soydiego/soydiego/master/img/hi.gif" style="width: 30px;"> Hello World!
 
 <p align="center">
 
