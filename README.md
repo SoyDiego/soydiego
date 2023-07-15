@@ -9,7 +9,7 @@
 🗺️ Based in Barcelona, Spain 🇪🇸
 
 ## Skills
-<div>
+<div align="center">
 <img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">&nbsp;&nbsp;&nbsp;
