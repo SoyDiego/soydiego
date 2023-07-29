@@ -4,7 +4,7 @@
 
 I'm Diego, <strong>Front-end Developer</strong>.  
 From Buenos Aires, Argentina 🇦🇷 and currently based in Barcelona, Spain 🇪🇸  
-Here you will find all my projects, as well as my contributions to <strong>open-source projects</strong>.
+Discover here all my projects, including my contributions to <strong>open-source<strong> initiatives.
 
 ## Skills
 <div align="center">
