@@ -25,20 +25,12 @@ Discover here all my projects, including my contributions to <strong>open-source
 
 ## Keep in touch
 
-<p align="left">
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SoyDieg0)
+&nbsp;&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/Website-%23E4405F.svg?&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABBklEQVQ4jZXSwUqCURDF8W8hIRLRIiRaiLSM1i1EJKQXixDpEaKnaNEyQkKkZwgJaR0Rrlz9WnwjjPZpdpfn3v+ZmXOnKHY4qOMGU3zjGZ1d2AIHePH7LNDdBR4H8IE+mrgPbbQN3k/wO9rprhn6fJtBDXvoZDjuekvjKrCOa7zhE085MLSiIxj+J7CTgKehjdFYhycpsKuAbvGIs1T5FQeb0p7hHA8Y4hiXoS/hwww3UtsztKPyomKUyQocBoPU9mnSu8qN+4q5Byszp4fLUPpregsXyu+sbfruQrnb0FyDl8aTlcAqDEbx8A5HyiXJgW2G06xVgY3/hJNJLzqZR/VhZWAV5wemZxHv9PwSqwAAAABJRU5ErkJggg==&logoColor=white&color=141321)](https://www.soydiego.com.ar)
+&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SoyDiegoF)
 
-  <a href="https://www.linkedin.com/in/SoyDiegoF" target="_blank">
-    <img alt="Diego's LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=141321" alt="LinkedIn">
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/SoyDieg0" target="_blank">
-    <img alt="Diego's Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=141321" alt="Instagram">
-  </a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.SoyDiego.com.ar">
-    <img alt="Diego's Website" src="https://img.shields.io/badge/Website-%23E4405F.svg?&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABBklEQVQ4jZXSwUqCURDF8W8hIRLRIiRaiLSM1i1EJKQXixDpEaKnaNEyQkKkZwgJaR0Rrlz9WnwjjPZpdpfn3v+ZmXOnKHY4qOMGU3zjGZ1d2AIHePH7LNDdBR4H8IE+mrgPbbQN3k/wO9rprhn6fJtBDXvoZDjuekvjKrCOa7zhE085MLSiIxj+J7CTgKehjdFYhycpsKuAbvGIs1T5FQeb0p7hHA8Y4hiXoS/hwww3UtsztKPyomKUyQocBoPU9mnSu8qN+4q5Byszp4fLUPpregsXyu+sbfruQrnb0FyDl8aTlcAqDEbx8A5HyiXJgW2G06xVgY3/hJNJLzqZR/VhZWAV5wemZxHv9PwSqwAAAABJRU5ErkJggg==&logoColor=white&color=141321" alt="Website"></a>
-
-</p>
 
 ---
 
