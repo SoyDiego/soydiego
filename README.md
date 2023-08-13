@@ -36,7 +36,7 @@ Discover here all my projects, including my contributions to <strong>open-source
 
 <div align="center">
 
-![Diego's github stats](https://github-readme-stats.vercel.app/api?username=SoyDiego&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Diego's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=soydiego&theme=radical)</br></br>![](https://github-contributor-stats.vercel.app/api?username=soydiego&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![Diego's github stats](https://github-readme-stats.vercel.app/api?username=SoyDiego&show_icons=true&theme=radical)</br></br>![Diego's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=soydiego&theme=radical)</br></br>![](https://github-contributor-stats.vercel.app/api?username=soydiego&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 <img src="https://komarev.com/ghpvc/?username=soydiego" alt="soydiego" />
