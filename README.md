@@ -27,7 +27,7 @@ Discover here all my projects, including my contributions to <strong>open-source
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SoyDieg0)
 &nbsp;&nbsp;&nbsp;
-[![Website](https://img.shields.io/badge/Website-%23E4405F.svg?&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABBklEQVQ4jZXSwUqCURDF8W8hIRLRIiRaiLSM1i1EJKQXixDpEaKnaNEyQkKkZwgJaR0Rrlz9WnwjjPZpdpfn3v+ZmXOnKHY4qOMGU3zjGZ1d2AIHePH7LNDdBR4H8IE+mrgPbbQN3k/wO9rprhn6fJtBDXvoZDjuekvjKrCOa7zhE085MLSiIxj+J7CTgKehjdFYhycpsKuAbvGIs1T5FQeb0p7hHA8Y4hiXoS/hwww3UtsztKPyomKUyQocBoPU9mnSu8qN+4q5Byszp4fLUPpregsXyu+sbfruQrnb0FyDl8aTlcAqDEbx8A5HyiXJgW2G06xVgY3/hJNJLzqZR/VhZWAV5wemZxHv9PwSqwAAAABJRU5ErkJggg==&logoColor=white&color=141321)](https://www.soydiego.com.ar)
+[![Website](https://img.shields.io/badge/Website-blueviolet?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABBklEQVQ4jZXSwUqCURDF8W8hIRLRIiRaiLSM1i1EJKQXixDpEaKnaNEyQkKkZwgJaR0Rrlz9WnwjjPZpdpfn3v+ZmXOnKHY4qOMGU3zjGZ1d2AIHePH7LNDdBR4H8IE+mrgPbbQN3k/wO9rprhn6fJtBDXvoZDjuekvjKrCOa7zhE085MLSiIxj+J7CTgKehjdFYhycpsKuAbvGIs1T5FQeb0p7hHA8Y4hiXoS/hwww3UtsztKPyomKUyQocBoPU9mnSu8qN+4q5Byszp4fLUPpregsXyu+sbfruQrnb0FyDl8aTlcAqDEbx8A5HyiXJgW2G06xVgY3/hJNJLzqZR/VhZWAV5wemZxHv9PwSqwAAAABJRU5ErkJggg==&)](https://www.soydiego.com.ar)
 &nbsp;&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SoyDiegoF)
 
@@ -36,9 +36,8 @@ Discover here all my projects, including my contributions to <strong>open-source
 
 <div align="center">
 
-[![Fazt Community](https://img.shields.io/badge/Fazt%20Community%20Contributor-GitHub-red)](https://github.com/faztcommunity)
+![Diego's github stats](https://github-readme-stats.vercel.app/api?username=SoyDiego&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Diego's github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=soydiego&theme=radical)</br></br>![](https://github-contributor-stats.vercel.app/api?username=soydiego&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-![Diego's github stats](https://github-readme-stats.vercel.app/api?username=SoyDiego&show_icons=true&theme=radical)
 
 <img src="https://komarev.com/ghpvc/?username=soydiego" alt="soydiego" />
 
