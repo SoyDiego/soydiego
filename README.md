@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm Diego, <strong>Front-end Developer</strong>, currently diving into <strong>Cybersecurity</strong>  
+I'm Diego, <strong>Front-end Developer</strong>, currently diving into <strong>Cybersecurity</strong>.  
 From Buenos Aires, Argentina 🇦🇷 and now based in Barcelona, Spain 🇪🇸  
 Discover here all my projects, including my contributions to <strong>open-source</strong> initiatives.
 
