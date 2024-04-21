@@ -8,18 +8,17 @@ Discover here all my projects, including my contributions to <strong>open-source
 
 ## Skills
 <div align="center">
-<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;&nbsp;&nbsp;
-<img width="40" height="40" ng-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-<img width="40" height="40" ng-src="https://assets.ine.com/certifications/badges/eJPT.png" src="https://assets.ine.com/certifications/badges/eJPT.png" alt="Junior Penetration Tester">
+<img title="HTML5" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+<img title="CSS3" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+<img title="Sass" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">&nbsp;&nbsp;&nbsp;
+<img title="Javascript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
+<img title="TypeScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;&nbsp;&nbsp;
+<img title="Angular" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">&nbsp;&nbsp;&nbsp;
+<img title="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+<img title="Figma" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;
+<img title="Linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;&nbsp;&nbsp;
+<img title="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+<img title="Junior Penetration Tester (eJPTv2)" width="40" height="50" src="https://assets.ine.com/certifications/badges/eJPT.png">
 </div>
 
 ## Keep in touch
