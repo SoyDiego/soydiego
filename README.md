@@ -2,8 +2,8 @@
 
 ## About Me
 
-I'm Diego, <strong>Front-end Developer</strong>.  
-From Buenos Aires, Argentina 🇦🇷 and currently based in Barcelona, Spain 🇪🇸  
+I'm Diego, <strong>Front-end Developer</strong>, currently diving into <strong>Cybersecurity</strong>
+From Buenos Aires, Argentina 🇦🇷 and now based in Barcelona, Spain 🇪🇸  
 Discover here all my projects, including my contributions to <strong>open-source</strong> initiatives.
 
 ## Skills
@@ -18,7 +18,9 @@ Discover here all my projects, including my contributions to <strong>open-source
 <img title="Figma" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;
 <img title="Linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;&nbsp;&nbsp;
 <img title="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
+<a href="https://certs.ine.com/3e8096ec-c705-4301-899f-8247f0eab84b#gs.8a1402" target="_blank">
 <img title="Junior Penetration Tester (eJPTv2)" width="40" height="50" src="https://assets.ine.com/certifications/badges/eJPT.png">
+</a>
 </div>
 
 ## Keep in touch
