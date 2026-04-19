@@ -7,21 +7,21 @@ From Buenos Aires, Argentina 🇦🇷 and now based in Barcelona, Spain 🇪🇸
 Discover here all my projects, including my contributions to <strong>open-source</strong> initiatives.
 
 ## Skills
-<div align="center">
-<img title="HTML5" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img title="CSS3" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img title="Sass" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">&nbsp;&nbsp;&nbsp;
-<img title="Javascript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;
-<img title="TypeScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;&nbsp;&nbsp;
-<img title="Angular" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">&nbsp;&nbsp;&nbsp;
-<img title="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<img title="Figma" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">&nbsp;&nbsp;&nbsp;
-<img title="Linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;&nbsp;&nbsp;
-<img title="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">&nbsp;&nbsp;&nbsp;
-<a href="https://certs.ine.com/3e8096ec-c705-4301-899f-8247f0eab84b#gs.8a1402" target="_blank">
-<img title="Junior Penetration Tester (eJPTv2)" width="40" height="50" src="https://assets.ine.com/certifications/badges/eJPT.png">
-</a>
-</div>
+<p align="center">
+  <img title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img title="Sass" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img title="Javascript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img title="Angular" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img title="Figma" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img title="Linux" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <a href="https://certs.ine.com/3e8096ec-c705-4301-899f-8247f0eab84b#gs.8a1402">
+    <img title="eJPTv2" width="40" src="https://assets.ine.com/certifications/badges/eJPT.png" />
+  </a>
+</p>
 
 ## Keep in touch
 
