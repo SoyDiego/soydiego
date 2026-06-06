@@ -2,11 +2,12 @@
 
 ## About Me
 
-I'm Diego, <strong>Front-end Developer</strong>, currently diving into <strong>Cybersecurity</strong>.  
+I'm Diego, <strong>Front-end Developer</strong>.  
 From Buenos Aires, Argentina 🇦🇷 and now based in Barcelona, Spain 🇪🇸  
 Discover here all my projects, including my contributions to <strong>open-source</strong> initiatives.
 
 ## Skills
+
 <p align="center">
   <img title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
